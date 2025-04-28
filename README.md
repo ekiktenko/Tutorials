@@ -1,4 +1,4 @@
-# Tutorials on various topics and physics and math
+# Tutorials on various topics of physics and math
   
 ## Content
 
